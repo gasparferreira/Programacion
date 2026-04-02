@@ -1,0 +1,13 @@
+# Binarios compilados
+*.exe
+*.out
+*.o
+
+# Carpetas de salida
+output/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
